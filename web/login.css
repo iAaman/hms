@@ -1,0 +1,25 @@
+#icon
+{
+    height:35px;
+    width: 70px;
+    margin:auto;
+}
+
+#log{
+    margin:auto;
+    width:100px;
+    height:100px;
+    Background-color:black;
+}
+
+.entryin
+{
+    width:50px;
+    height:20px;
+    background-color:white;
+}
+
+.entryin:hover{
+    background-color: grey;
+    color:aqua;
+}

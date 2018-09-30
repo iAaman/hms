@@ -1,0 +1,74 @@
+#icon
+{
+    margin-left:500px;
+}
+
+#log{
+    margin-top: 100px;
+    margin-left:38%;
+    width:500px;
+    height:350px;
+    background-color: black;
+    opacity:0.6
+}
+
+.entryin
+{
+    width:200px;
+    height:32px;
+    border-radius:12px;
+    margin-left:74px;
+    background-color:whitesmoke;
+    color:black;
+    border:#020202;
+}
+
+.entryin:first-child{
+    margin-top: 50px;
+}
+
+.entryin:hover{
+    font-weight: bold;
+}
+
+.register{
+    margin:auto;
+    font-family: monospace;
+    margin-left:560px;
+    font-size:1.3em;
+    border-radius:6px;
+    border: 1.5px solid crimson;
+    padding-left:2px;
+    padding-right:2px;
+}
+
+a{
+    color:graytext;
+    font-size: 1em;
+    text-decoration: none;
+    font-weight:bold;
+}
+
+a:hover{
+    background-color:white;
+}
+
+#submit{
+    width:120px;
+    height:40px;
+    margin-top:40px;
+    margin-left:106px;
+    background-color: #ffffff;
+    border-radius:12px;
+    border-style: none;
+}
+
+#submit:hover{
+    width:124px;
+    height:45px;
+    margin-top:45px;
+}
+
+body{
+    background-image: url("http://smashingyolo.com/wp-content/uploads/2014/05/Best-Website-Background-Images18.jpg");
+}
